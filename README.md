@@ -1,4 +1,4 @@
-Pentaho-Data-Integration-over-noVNC-image
+git remote add origin https://github.com/TessTea/Pentaho-Data-Integration-over-noVNC-image.git
 ===============================
 
 ## Supported tags and respective `Dockerfile` links
@@ -58,3 +58,4 @@ cd ./data-integration
 ```
 
 [1]: https://hub.docker.com/r/consol/ubuntu-xfce-vnc/
+[Dockerfile]: https://github.com/TessTea/Pentaho-Data-Integration-over-noVNC-image/blob/main/Dockerfile
