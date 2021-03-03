@@ -1,4 +1,4 @@
-git remote add origin https://github.com/TessTea/Pentaho-Data-Integration-over-noVNC-image.git
+Pentaho-Data-Integration-over-noVNC-image
 ===============================
 
 ## Supported tags and respective `Dockerfile` links
