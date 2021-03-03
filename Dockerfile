@@ -9,7 +9,7 @@ RUN chown -R 1000:1000 ./data-integration \
     && apt install openjdk-8-jre-headless -y && java -version \
     && rm -rf pdi-ce-9.1.0.0-324.zip
 RUN apt-get update \
-    && apt-get install software-properties-common \
+    && apt-get install -y software-properties-common \
     && apt-add-repository 'deb http://cz.archive.ubuntu.com/ubuntu bionic main universe' \
     && apt-get install libwebkitgtk-1.0-0 -y
 
